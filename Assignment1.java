@@ -5,9 +5,9 @@ import java.util.*;
 //
 // Function name  : DisplayPattern
 // Description    : Accept row and column and display pattern
-// Output	      	 : string
-// Date	        : 7/07/2022
-// Author	        : Suraj Sanjay Thanage
+// Output	  : Pattern
+// Date	          : 24/07/2022
+// Author	  : Suraj Sanjay Thanage
 //
 //////////////////////////////////////////////////////////////////////////
 
